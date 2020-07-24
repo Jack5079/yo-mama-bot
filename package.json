@@ -1,0 +1,27 @@
+{
+  "name": "yomama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack5079/yo-mama-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack5079/yo-mama-bot/issues"
+  },
+  "homepage": "https://github.com/Jack5079/yo-mama-bot#readme"
+}
